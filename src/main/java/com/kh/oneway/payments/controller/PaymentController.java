@@ -1,4 +1,4 @@
-package com.kh.oneway.payment.controller;
+package com.kh.oneway.payments.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,4 +1,4 @@
-package com.kh.oneway.payment.model.service;
+package com.kh.oneway.payments.model.service;
 
 import org.springframework.stereotype.Service;
 
